@@ -1,0 +1,9 @@
+zrobić 1.1, 1.2
+
+dlan = 7 błąd
+uwarankowanie ukłau norm(A) * norm(A^(-1))
+norm(A^(-1)) -- wyliczam układ wiec sie zagłeiamy 
+
+gausa napisać sami
+algorytm Thomasa
+takie same wyniki - liczyć czas (od moment utworzenia układu)
