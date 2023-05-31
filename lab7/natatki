@@ -1,0 +1,17 @@
+dwa wektory początkowe
+
+kryterjum stopu norma z różnicy wektory (jaką norme przyjeliśmy)
+
+kryteerjum residualna kosztowna (pytanie czy się opłaca)
+
+dla chętnych: różnica czasów
+
+znaleść x obliczony określić ilość iteracji (błąd)
+więcej paramettów - \ro, vektor początkowy, wielkość układu
+
+problem zbierzności zalerznu od promiena rresudalnego
+(obliczone o macierz iteracji) dla niej promień spektralny jak < 1 to ok
+
+pownno być że dla n < 10 promień może być > 1 wtedy napisać (wartość własna)
+
+można użyć biblioteki, promiń spektralny = szykość zbierzności

@@ -7,3 +7,16 @@ norm(A^(-1)) -- wyliczam układ wiec sie zagłeiamy
 gausa napisać sami
 algorytm Thomasa
 takie same wyniki - liczyć czas (od moment utworzenia układu)
+
+#########################################################
+
+dla małych n: 3,4,5,6
+sprawdzić obliczanie funkcjami: ma być odpowiadające badanej precyzji, wystarczają 2 
+
+thomas wyniki daje te same wyniki co gaussa, szbko
+
+wykres czasowy thomas 
+
+thomas może być dla jednej precyzji
+
+thomas jak jest przechowywana macierz A
